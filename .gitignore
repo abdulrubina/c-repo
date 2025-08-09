@@ -1,3 +1,23 @@
+# Visual Studio files
+.vs/
+
+# .NET build outputs
 bin/
 obj/
-Properties/
+
+# SQLite database file
+todos.db
+
+# Other common ignores
+*.suo
+*.user
+*.sln.docstates
+
+echo ".vs/" > .gitignore
+echo "bin/" >> .gitignore
+echo "obj/" >> .gitignore
+echo "todos.db" >> .gitignore
+echo "*.suo" >> .gitignore
+echo "*.user" >> .gitignore
+echo "*.sln.docstates" >> .gitignore
+
