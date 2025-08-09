@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "rest_api": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:63921;http://localhost:63922"
+    }
+  }
+}

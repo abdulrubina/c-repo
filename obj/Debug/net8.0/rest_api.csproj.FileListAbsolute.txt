@@ -1,0 +1,4 @@
+C:\Users\ABDUL\source\repos\rest_api\rest_api\obj\Debug\net8.0\rest_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABDUL\source\repos\rest_api\rest_api\obj\Debug\net8.0\rest_api.AssemblyInfoInputs.cache
+C:\Users\ABDUL\source\repos\rest_api\rest_api\obj\Debug\net8.0\rest_api.AssemblyInfo.cs
+C:\Users\ABDUL\source\repos\rest_api\rest_api\obj\Debug\net8.0\rest_api.csproj.CoreCompileInputs.cache
